@@ -71,15 +71,15 @@
 # print(students)
 # st_copy = students.copy()
 # print(st_copy)
-employee = {
-"emp_id": 101,
-"name": "Kiran",
-"department": "HR",
-"salary": 35000
-}
-print(employee.keys())
-print(employee.values())
-print(employee.items())
-print(employee["name"])
-employee["salary"] =40000
-print(employee)
+# employee = {
+# "emp_id": 101,
+# "name": "Kiran",
+# "department": "HR",
+# "salary": 35000
+# }
+# print(employee.keys())
+# print(employee.values())
+# print(employee.items())
+# print(employee["name"])
+# employee["salary"] =40000
+# print(employee)
